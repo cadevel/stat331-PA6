@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Cade Veljovich, Sawyer Claussen, JP
+author: Sawyer, Cade, JP
 format: html
 editor: source
 embed-resources: true
