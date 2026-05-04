@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Sawyer, Cade, JP
 format: html
 editor: source
 embed-resources: true
